@@ -60,7 +60,7 @@ Contributing
 4. Open a pull request with a clear description of changes.
 
 License
-- See `LICENSE.md` in the repository.
+- See `LICENSE.txt` in the repository.
 
 Support & tips
 - To change the target framework edit the project TFM or use __Project Properties > Target Framework__.
