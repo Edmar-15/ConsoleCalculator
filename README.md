@@ -28,7 +28,7 @@ Quick start (CLI)
 2. Build:
    dotnet build
 3. Run:
-   dotnet run --project ConsoleCalculator
+   dotnet run
 
 Quick start (Visual Studio)
 - Open the solution in Visual Studio 2022.
